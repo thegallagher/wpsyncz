@@ -1,0 +1,14 @@
+{
+    "name": "thegallagher/wpsyncz",
+    "type": "wp-cli-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Gallagher",
+            "email": "david@thegallagher.net"
+        }
+    ],
+    "autoload": {
+        "files": [ "wpsyncz.php" ]
+    }
+}
