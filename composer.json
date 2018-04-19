@@ -10,5 +10,8 @@
     ],
     "autoload": {
         "files": [ "wpsyncz.php" ]
+    },
+    "require": {
+        "wp-cli/wp-cli": "^1.5"
     }
 }
